@@ -1,0 +1,19 @@
+.signup_name {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    width: 80%
+}
+
+.signup_name_item {
+    margin-top: 30px
+}
+
+.signup_name_buttons {
+    display: flex;
+    flex-direction: row
+}
+
+.signup_name_continue {
+    margin-left: 50px
+}

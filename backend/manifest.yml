@@ -1,0 +1,7 @@
+applications:
+  - name: PFEInsper
+    # memory: 256M
+    # # This is command provided by cf -c option
+    # command: bash ./run.sh
+    # buildpack: https://github.com/cloudfoundry/python-buildpack
+    # path: .

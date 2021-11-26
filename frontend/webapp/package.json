@@ -1,0 +1,39 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@carbon/icons-react": "0.0.1-alpha.12",
+    "@ibm/plex": "^1.2.3",
+    "carbon-components": "^9.82.13",
+    "carbon-components-react": "^6.99.1",
+    "carbon-icons": "^7.0.7",
+    "mobx": "^5.9.0",
+    "mobx-react": "^5.4.3",
+    "node-sass": "^4.11.0",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.8",
+    "react-vis": "^1.11.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "build-prd": "cross-env GENERATE_SOURCEMAP=false react-scripts build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "devDependencies": {
+    "cross-env": "^5.2.0"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

@@ -1,0 +1,5 @@
+path: build/
+instances: 1
+buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
+name: pfefronttwo
+disk_quota: 1024M

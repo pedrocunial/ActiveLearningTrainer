@@ -1,0 +1,29 @@
+body {
+    background-color: #F4F7FB;
+}
+
+
+.form {
+    position: absolute;
+    left: 35.28%;
+    right: 35.69%;
+    top: 36.84%;
+    bottom: 56.3%;
+    display: flex;
+    flex-direction: column
+}
+
+
+.password {
+    margin-top: 20px;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+}
+
+.signup {
+    margin-left: 100px
+}

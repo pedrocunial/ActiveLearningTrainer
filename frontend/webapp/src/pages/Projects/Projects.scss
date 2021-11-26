@@ -1,0 +1,33 @@
+body {
+    background-color: #F4F7FB;
+}
+
+.title {
+    position: absolute;
+    left: 400px;
+    right: 71.81%;
+    top: 7.8%;
+    bottom: 87.32%;
+}
+
+.pagination {
+    position: absolute;
+    left: 450px;
+    right: 13.75%;
+    top: 21.02%;
+    bottom: 74.65%;
+}
+
+.projects {
+    position: absolute;
+    left: 450px;
+    right: 13.75%;
+    top: 26.87%;
+    bottom: 62.95%;   
+    display: flex;
+    flex-direction: column; 
+}
+
+.create_project {
+    margin: 5px
+}

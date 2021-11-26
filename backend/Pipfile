@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+watson-developer-cloud = "==2.1.0"
+django = "*"
+djangorestframework = "*"
+dj-static = "==0.0.6"
+gunicorn = "*"
+ibm-cos-sdk = "*"
+django-cors-headers = "*"
+django-rest-auth = "*"
+scikit-learn = "*"
+mock = "*"
+redis = "*"
+sqlalchemy = "*"
+"psycopg2" = "*"
+celery = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3"

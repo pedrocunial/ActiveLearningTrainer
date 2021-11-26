@@ -1,0 +1,62 @@
+.sample {
+    position: absolute;
+    width: 300px;
+    left: 45.32%;
+    top: 19.93%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.sample_item {
+    margin-top: 25px
+}
+
+.label_selector {
+    margin: 20px
+}
+
+.loading_sample {
+    margin-top: 30px
+}
+
+.title {
+    position: absolute;
+    left: 400px;
+    right: 71.81%;
+    top: 7.8%;
+    bottom: 87.32%;
+}
+
+.label_list {
+    position: fixed;
+    background-color: white;
+    height: 100%;
+    border-width: 1px;
+    padding-left: 20px;
+    padding-bottom:20px;
+    padding-right: 20px;
+    right: 0%;
+    top: 3em;
+}
+
+.add_label_button {
+    margin-top: 10px;
+}
+
+.label_text {
+    border-bottom: solid;
+    border-width: 1px;
+    border-color: black;
+    padding: 10px;
+}
+
+.send_labeled_sample {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.send_labeled_sample_button {
+    margin-left: 25px;
+}

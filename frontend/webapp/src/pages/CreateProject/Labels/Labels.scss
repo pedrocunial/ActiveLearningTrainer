@@ -1,0 +1,28 @@
+.create_project_labels {
+    display: flex;
+    flex-direction: column;
+    margin-top:50px;
+    width: 80%;
+}
+
+.create_project_labels_item {
+    margin-top: 30px;
+}
+
+.create_project_labels_list_title {
+    font-size: 0.9em;
+    font-weight: bold;
+}
+
+.create_project_labels_add_label {
+    margin-top: 10px;
+}
+
+.create_project_labels_buttons {
+    display: flex;
+    flex-direction: row
+}
+
+.create_project_labels_continue {
+    margin-left: 50px
+}

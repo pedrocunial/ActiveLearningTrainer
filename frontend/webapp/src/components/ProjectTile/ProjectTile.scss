@@ -1,0 +1,29 @@
+.tile {
+    margin:5px;
+}
+
+.project_title {
+    width: 100px
+}
+
+.project_tile_buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 200px
+}
+
+.project_title_button {
+    margin-left: 10px
+}
+
+.tile_content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.item {
+    margin: 5px
+}

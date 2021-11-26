@@ -1,0 +1,14 @@
+.labels_list {
+    max-height: 200px;
+    min-height: 100px;
+    overflow-y: scroll;
+    background-color: white;
+}
+
+.label_name {
+    font-size: 0.9em;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}

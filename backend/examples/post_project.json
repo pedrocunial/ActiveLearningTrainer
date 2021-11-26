@@ -1,0 +1,5 @@
+{
+	"name" : "teste_nlc765",
+	"type": "text",
+	"labels": ["temperature", "conditions"]
+}

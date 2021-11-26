@@ -1,0 +1,44 @@
+.create_project_types {
+    display: flex;
+    flex-direction: column;
+    margin-top:50px;
+    width: 80%
+}
+
+.types {
+    display: flex;
+    flex-direction: row;    
+    min-height: 70px;
+}
+
+.create_project_types_buttons {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row
+}
+
+.type {
+    margin-left: 30px
+}
+
+.create_project_types_item {
+    margin-top: 30px;
+}
+
+.create_project_types_continue {
+    margin-left: 50px
+}
+
+.type_image {
+    margin-top: 10px;
+    width: 50px;
+    height: 50px;
+}
+
+.type_content {
+    display: flex;
+    flex-direction: column;
+    align-items: center
+}
+
+

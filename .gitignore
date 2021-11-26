@@ -1,0 +1,16 @@
+__pycache__/
+.vscode/
+
+# Credentials
+backend/credentials/*.txt
+
+# Bucket
+backend/bucket/*.png
+
+# Seed files
+backend/api/temp_data/*.csv
+backend/api/temp_data/seed_files/*.zip
+
+# dB
+backend/main/*.sqlite3
+backend/dump.rdb

@@ -1,0 +1,22 @@
+.create_project_summary {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+}
+
+.create_project_summary_item {
+    margin-top:30px
+}
+
+.create_project_summary_buttons {
+    display: flex;
+    flex-direction: row
+}
+
+.create_project_summary_continue {
+    margin-left: 50px
+}
+
+.create_project_summary_title {
+    font-weight: bold;
+}

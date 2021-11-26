@@ -1,0 +1,22 @@
+.signup_summary {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+}
+
+.signup_summary_item {
+    margin-top:30px
+}
+
+.signup_summary_buttons {
+    display: flex;
+    flex-direction: row
+}
+
+.signup_summary_continue {
+    margin-left: 50px
+}
+
+.signup_summary_title {
+    font-weight: bold;
+}

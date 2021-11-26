@@ -1,0 +1,14 @@
+curl --request POST \
+  --url http://localhost:8000/api/v1/project \
+  --header 'content-type: application/json' \
+  --data '{
+	"name": "ProjetoTeste3",
+	"type": "image",
+	"username": "teste",
+	"password": "teste",
+	"api_key_vr": "S9dqLdgvDZwcZtW_1hE0euVRarj864gTtZ2g368gWBkl",
+	"api_key_objectstorage": "bkINGGmc7rR5sJY0SBSCmoQYhGmVXrw-Stl-BHlkUyxW",
+	"instance_id": "crn:v1:bluemix:public:cloud-object-storage:global:a/742ad5ad55ed3bdd3afb038213b69b8a:b8532a93-2e59-40a6-b5b7-f60aa0067b6b::",
+	"bucket_name": "bucketinsper",
+	"labels": ["rotulo1", "rotulo2"]
+}'
